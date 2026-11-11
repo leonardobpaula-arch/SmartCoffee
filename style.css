@@ -1,0 +1,50 @@
+header a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.banner {
+    background-color: #C2B8AD;
+    padding: 20px;
+}
+
+.cabecalho {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #C2B8AD;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #C2B8AD;
+    padding: 10px;
+    text-decoration: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    background-color: #C2B8AD;
+}
+
+h1 {
+    float: left;
+    padding-bottom: 10px;
+}
+
+a {
+    color: white;
+    background-color: #B86B4B;
+    border-radius: 15px;
+}
